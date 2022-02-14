@@ -1,0 +1,3 @@
+- 👋 Hola, soy @wpirri, me pueden seguir por twitter.
+- 👀 Me interesa principalmente la domótica, tanto software como hardware.
+- 🌱 Actualmente estóy trabajando en un proyecto propio de domótica que lo podés encontrar en GitHub.
