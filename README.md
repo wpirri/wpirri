@@ -1,3 +1,3 @@
 - 👋 Hola, soy @wpirri, me pueden seguir por X (twitter).
 - 👀 Me interesa principalmente la domótica, tanto software como hardware.
-- 🌱 Actualmente estóy trabajando en un proyecto propio de domótica que lo podés encontrar en GitHub en los repositorios DomPiWeb y DomPiCloud.
+- 🌱 Actualmente estóy trabajando en un proyecto propio de domótica que lo podés encontrar en GitHub (https://github.com/wpirri) en los repositorios DomPiWeb (central de domotica domiciliaria), dom32-io-wifi (módulo de I/O para domotica) y DomPiCloud (Centralizador de sistemas de domótica en la nube).
